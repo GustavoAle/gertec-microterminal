@@ -1,0 +1,6 @@
+#pragma once
+
+#define VERSION_MINOR @GertecMicroterminal_VERSION_MINOR@
+#define VERSION_MAJOR @GertecMicroterminal_VERSION_MAJOR@
+#define VERSION_PATCH @GertecMicroterminal_VERSION_PATCH@
+
